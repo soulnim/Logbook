@@ -1,0 +1,6 @@
+[submodule "logbook-backend"]
+	path = logbook-backend
+	url = https://github.com/soulnim/logbook-backend
+[submodule "logbook-frontend"]
+	path = logbook-frontend
+	url = https://github.com/soulnim/logbook-frontend
