@@ -27,6 +27,9 @@ Logbook is a private developer journal — log what you learn, build, and ship. 
 | Frontend | React + Vite + TypeScript + Tailwind CSS |
 | Backend | Spring Boot 3 (Java) |
 | Database | PostgreSQL |
+| Auth | Google OAuth 2.0 + JWT |
+| Containerisation | Docker + Docker Compose |
+| Deployment | Railway |
 
 ## 📝 Entry Types
 
